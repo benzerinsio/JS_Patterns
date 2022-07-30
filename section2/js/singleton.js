@@ -1,4 +1,6 @@
 //this is good to create a single instance of the object and keep referring to it
+
+
 //in this example we are creating circles in the page
 //with the click, the circles only appear inside a class named 'advert'
 //with the keyboard press "a" the circles appear inside all document
